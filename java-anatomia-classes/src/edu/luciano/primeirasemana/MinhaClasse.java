@@ -1,3 +1,4 @@
+package edu.luciano.primeirasemana;
 public class MinhaClasse {
     
     public static void main (String[] args){
